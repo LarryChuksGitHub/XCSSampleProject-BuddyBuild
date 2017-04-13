@@ -22,7 +22,7 @@ Quick Start
 1. Clone the project
 
 	```
-	git clone git@github.bus.zalan.do:TIP/XCSSampleProject.git
+	
 	```
 
 2. Navigate to project
